@@ -2,16 +2,16 @@
 
 body {
   font-family: "Google Sans", sans-serif;
-  background-color: #ececec;
+  background-color: #f3f3f3;
   display: flex;
-  justify-content: center;
-  padding: 80px 20px;
+  padding: 170px 200px;
 }
 
 .form {
   background: white;
   padding: 35px;
-  border-radius: 20px;
+  border: solid 1px #e7e7e7;
+  border-radius: 15px;
   width: 100%;
   max-width: 350px;
   padding-bottom: 30px;
