@@ -1,0 +1,1 @@
+Vienkārša kontaktinformacijas forma izmantojot HTML + JS + validācija.
